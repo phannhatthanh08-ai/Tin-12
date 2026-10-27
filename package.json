@@ -1,0 +1,10 @@
+{
+  "name": "on-tap-tin-hoc-12-kntt",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hệ Thống Ôn Tập Điểm 10 Tin Học 12 Kết Nối Tri Thức (Trọn Bộ 28 Bài Trọng Tâm • 7 Chủ Đề)",
+  "scripts": {
+    "start": "npx serve .",
+    "deploy": "npx vercel --prod"
+  }
+}
